@@ -1,7 +1,7 @@
 ## Module 2 Challenge Second Document
 Want to go back to the README? Click below!
 
-[To the README file!](C:\Users\nickm\OneDrive\Desktop\Module 2 Challenge\README.md)
+[To the README file!](README.md)
 <h2> H2 Text!
 <h4> H4 Text
 <h4> Go check out this amazing website!

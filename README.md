@@ -1,2 +1,6 @@
 # Module-2-Challenge
 Module 2 Challenge
+
+Welcome to the home page. Check out the second file with all the requirements for the challenge.
+
+[To the Second File!](C:\Users\nickm\OneDrive\Desktop\Module 2 Challenge\README.md)

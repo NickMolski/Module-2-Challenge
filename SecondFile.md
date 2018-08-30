@@ -10,7 +10,7 @@ https://www.google.com/
 ![image](Picture.jpg)
 
 <h4> And look at this other dog!
-https://d17fnq9dkz9hgj.cloudfront.net/uploads/2018/02/Boston-Terrier_02-390x203.jpg
+<img src="https://d17fnq9dkz9hgj.cloudfront.net/uploads/2018/02/Boston-Terrier_02-390x203.jpg" />
 
 ```ruby
 markdown = ("Hello World!")
